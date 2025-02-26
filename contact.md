@@ -11,7 +11,8 @@ Please contact the GBIF Secretariat if you have any questions regarding the foll
 - rules for attending the GB29 events
 - the programme
 - the rules for requesting financial support to attend the meeting, or
-- if you need an invitation letter.  
+- if you need an invitation letter.
+- test MATT MATT MATT
 
 GBIF Secretariat
 Email: [GB29@gbif.org](mailto:GB29@gbif.org)
