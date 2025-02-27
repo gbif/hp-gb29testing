@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: home
-title: GB29 Belgium
+title: GB29 Belgium (updated)
 description: |
   The 29th meeting of the GBIF Governing Board and associated events,  
   Brussels, Belgium,  
