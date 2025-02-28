@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: home
-title: GB29 Belgium (ready for prod)
+title: GB29 Belgium (ready for staging)
 description: |
   The 29th meeting of the GBIF Governing Board and associated events,  
   Brussels, Belgium,  
